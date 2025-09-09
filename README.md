@@ -107,7 +107,7 @@ The dataset used for this analysis contains two sheets:
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot](Dashboard_Screenshot.png)  
+![Dashboard Screenshot](Dashboard_Screenshot.jpg)  
 
 ---
 
