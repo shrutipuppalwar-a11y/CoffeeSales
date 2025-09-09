@@ -94,8 +94,8 @@ The dataset used for this analysis contains two sheets:
 
 ## ⚡ How to Use  
 1. **Clone or Download** this repository.  
-2. Open the `Coffee_Shop_Sales.pbix` file in **Power BI Desktop**.  
-3. If dataset is available (`Sales_Data.xlsx`):  
+2. Open the `CoffeeSales-Dashboard.pbix` file in **Power BI Desktop**.  
+3. If dataset is available (`Dataset.xlsx`):  
    - Place it in the same folder as the `.pbix` file.  
    - Open Power BI → Click **Refresh** to load the latest data.  
 4. Interact with filters/slicers in the dashboard to explore:  
